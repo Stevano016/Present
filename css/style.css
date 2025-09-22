@@ -416,7 +416,7 @@ h2 {
 }
 
 .photo-item {
-  background-color:  rgba(30, 41, 59, 0.7);;
+  background-color: rgba(30, 41, 59, 0.7);
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.05);
@@ -459,24 +459,6 @@ h2 {
   height: 100%;
   z-index: 1;
 }
-
-/* .fullscreen-btn {
-    position: absolute;
-    bottom: 15px;
-    right: 15px;
-    background-color: rgba(0, 0, 0, 0.5);
-    color: white;
-    border: none;
-    border-radius: 5px;
-    padding: 8px;
-    cursor: pointer;
-    z-index: 2;
-    transition: background-color 0.3s ease;
-}
-
-.fullscreen-btn:hover {
-    background-color: rgba(0, 0, 0, 0.8);
-} */
 
 .main-video p {
   padding: 15px;
@@ -764,6 +746,3 @@ h2 {
   font-size: 0.9rem;
   line-height: 1.5;
 }
-
-/* Tombol Fullscreen */
-/* CSS untuk tombol fullscreen dihapus sesuai permintaan */
